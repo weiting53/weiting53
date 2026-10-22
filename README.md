@@ -1,8 +1,10 @@
+<a href="https://weiting53.github.io"><img src="site-banner.png" alt="weiting53.github.io — personal website" width="100%"></a>
+
 ## Hi, I'm Wei Ting 🎏
 
 HCI M.S. student (Computer Science) at **National Taiwan University**. I build interactive systems for digital health and behavior change — Android interventions, AIoT for older adults, XR games and LLM companions.
 
-🌐 **[weiting53.github.io](https://weiting53.github.io)** · [LinkedIn](https://www.linkedin.com/in/weiting53/)
+🌐 **Website: [weiting53.github.io](https://weiting53.github.io)** · [LinkedIn](https://www.linkedin.com/in/weiting53/)
 
 ### Projects
 
